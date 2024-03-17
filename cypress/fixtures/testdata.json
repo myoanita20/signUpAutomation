@@ -1,0 +1,12 @@
+{
+    "passwordRequirement": ["At least 8 characters", "One uppercase letter", "One lowercase letter", "One number", "One special character","No empty space"],
+    "weakPass": "test123",
+    "averagePass": "Auto@123",
+    "strongPass": "Nittt@123",
+    "veryStrongPass": "Nitttss@123",
+    "invalidPhone": "12321312344321",
+    "validPhone": "8232371938212",
+    "indexPassInvalid": [0,1,4],
+    "indexPassValid": [2,3,5],
+    "countryName": "Indonesia"
+}

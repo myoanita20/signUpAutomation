@@ -1,0 +1,4 @@
+{
+    "switchCaseError": "Parameter value that given is not on the case list",
+    "ifElseError": "Parameter value that given is not on the if else option"
+}
